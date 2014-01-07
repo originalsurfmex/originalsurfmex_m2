@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>useful</artifactId>
+  <groupId>useful</groupId>
+  <version>0.8.3-alpha8</version>
+  <name>useful</name>
+  <description>A collection of generally-useful Clojure utility functions</description>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojure</artifactId>
+      <version>1.4.0</version>
+      <exclusions/>
+    </dependency>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>tools.macro</artifactId>
+      <version>0.1.1</version>
+      <exclusions/>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <id>maven</id>
+      <url>http://repo1.maven.org/maven2</url>
+    </repository>
+    <repository>
+      <id>releases</id>
+      <url>http://oss.sonatype.org/content/repositories/releases</url>
+    </repository>
+    <repository>
+      <id>snapshots</id>
+      <url>http://oss.sonatype.org/content/repositories/snapshots</url>
+    </repository>
+    <repository>
+      <id>clojars</id>
+      <url>http://clojars.org/repo</url>
+    </repository>
+  </repositories>
+</project>
+

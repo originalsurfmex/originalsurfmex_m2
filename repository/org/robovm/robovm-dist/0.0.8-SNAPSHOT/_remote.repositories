@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 03 21:55:05 EST 2014
+robovm-dist-0.0.8-SNAPSHOT-nocompiler.tar.gz>=
+robovm-dist-0.0.8-SNAPSHOT.pom>=
+robovm-dist-0.0.8-SNAPSHOT.tar.gz>=

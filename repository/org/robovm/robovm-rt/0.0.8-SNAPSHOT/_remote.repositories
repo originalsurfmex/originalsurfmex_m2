@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 03 21:51:38 EST 2014
+robovm-rt-0.0.8-SNAPSHOT-sources.jar>=
+robovm-rt-0.0.8-SNAPSHOT.jar>=
+robovm-rt-0.0.8-SNAPSHOT.pom>=
