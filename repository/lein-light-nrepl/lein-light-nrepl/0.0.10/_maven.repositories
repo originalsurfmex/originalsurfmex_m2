@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Jan 09 19:37:25 EST 2014
+#Sat Jan 11 10:26:18 EST 2014
 lein-light-nrepl-0.0.10.jar>clojars=
 lein-light-nrepl-0.0.10.pom>clojars=
+lein-light-nrepl-0.0.10.jar>=
+lein-light-nrepl-0.0.10.pom>=
