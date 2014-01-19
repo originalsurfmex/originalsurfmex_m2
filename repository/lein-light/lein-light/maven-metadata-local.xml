@@ -3,10 +3,11 @@
   <groupId>lein-light</groupId>
   <artifactId>lein-light</artifactId>
   <versioning>
-    <release>0.0.44</release>
+    <release>0.0.45</release>
     <versions>
       <version>0.0.44</version>
+      <version>0.0.45</version>
     </versions>
-    <lastUpdated>20140111152615</lastUpdated>
+    <lastUpdated>20140119013050</lastUpdated>
   </versioning>
 </metadata>
