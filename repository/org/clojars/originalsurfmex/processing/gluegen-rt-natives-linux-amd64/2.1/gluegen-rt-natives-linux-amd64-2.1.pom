@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.clojars.originalsurfmex.processing</groupId>
+	<artifactId>gluegen-rt-natives-linux-amd64</artifactId>
+	<version>2.1</version>
+	<name>gluegen-rt-natives-linux-amd64</name>
+	<description>processing-libs</description>
+	<url>http://www.processing.org</url>
+	<scm>
+		<tag>processing-libs</tag>
+		<url>http://www.processing.org</url>
+	</scm>
+	<licenses>
+		<license>
+			<name/>
+			<url/>
+			<distribution/>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<id/>
+			<name/>
+			<email/>
+		</developer>
+	</developers>
+	<repositories>
+		<repository>
+			<id>clojars.org</id>
+			<url>http://clojars.org/repo/</url>
+		</repository>
+	</repositories>
+	<distributionManagement>
+		<repository>
+			<id>clojars</id>
+			<name>Clojars repository</name>
+			<url>https://clojars.org/repo</url>
+		</repository>
+	</distributionManagement>
+</project>
